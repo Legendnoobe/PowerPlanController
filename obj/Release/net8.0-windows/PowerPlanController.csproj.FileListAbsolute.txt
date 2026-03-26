@@ -1,0 +1,16 @@
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\assets\icon.ico
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\assets\icon.png
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\PowerPlanController.exe
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\PowerPlanController.deps.json
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\PowerPlanController.runtimeconfig.json
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\PowerPlanController.dll
+C:\MyProjects\AntigravityProjects\PowerPlanController\bin\Release\net8.0-windows\PowerPlanController.pdb
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.AssemblyInfoInputs.cache
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.AssemblyInfo.cs
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.csproj.CoreCompileInputs.cache
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.dll
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\refint\PowerPlanController.dll
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.pdb
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\PowerPlanController.genruntimeconfig.cache
+C:\MyProjects\AntigravityProjects\PowerPlanController\obj\Release\net8.0-windows\ref\PowerPlanController.dll

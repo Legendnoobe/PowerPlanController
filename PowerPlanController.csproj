@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>assets\icon.ico</ApplicationIcon>
+    <AssemblyName>PowerPlanController</AssemblyName>
+    <RootNamespace>PowerPlanController</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- Single self-contained EXE — no extra files needed -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    
+    <!-- EXE Metadata -->
+    <Company>Legendnoobe</Company>
+    <Product>Power &amp; Sleep Mode</Product>
+    <Description>Windows Power and Sleep monitor timeout controller.</Description>
+    <Copyright>Copyright © Legendnoobe</Copyright>
+  </PropertyGroup>
+
+  <!-- Embed icon inside the EXE as a resource (no assets folder needed) -->
+  <ItemGroup>
+    <EmbeddedResource Include="assets\icon.ico" LogicalName="icon.ico" />
+  </ItemGroup>
+
+</Project>
