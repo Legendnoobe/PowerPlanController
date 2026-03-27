@@ -20,9 +20,9 @@ Windows sistem tepsisinden pil/şarj modlarına göre **ekran kapanma** ve **uyk
 ## ✨ Özellikler
 
 | # | Özellik |
-|---|---------|
+| - | ------- |
 | 1 | **Bağımsız Mod Kontrolü** — Pilde ve Şarjda modları için ayrı ayrı ekran/uyku süreleri |
-| 2 | **Çoklu Dil (i18n)** — İşletim sistemi diline (TR / EN) göre otomatik arayüz |
+| 2 | **Çoklu Dil (i18n)** — İşletim sistemi diline (TR / EN) otomatik arayüz |
 | 3 | **Windows 11 Fluent Tasarım** — Koyu tema, yuvarlak köşeler, Mica tadında saydamlık, fade animasyonu |
 | 4 | **Sistem Tepsisine Küçültme** — Opsiyonel; pencereyi kapatınca tepside gizli çalışmaya devam eder |
 | 5 | **Otomatik Başlangıç** — Registry yardımıyla Windows açılışında otomatik başlar |
@@ -39,7 +39,8 @@ Windows sistem tepsisinden pil/şarj modlarına göre **ekran kapanma** ve **uyk
 - **Veri Saklama:** `%AppData%\PowerPlanController\config.json`
 - **Dağıtım:** Single-file, Self-Contained EXE (kurulum gerektirmez)
 
-> **Hiçbir üçüncü taraf NuGet paketi kullanılmamıştır.**  
+> **Hiçbir üçüncü taraf NuGet paketi kullanılmamıştır.**
+>
 > Yalnızca .NET 8 SDK'nın standart kütüphaneleri (`System.Text.Json`, `Microsoft.Win32`, `System.Drawing`, `System.Windows.Forms`) kullanılmaktadır.
 
 ---
@@ -47,6 +48,7 @@ Windows sistem tepsisinden pil/şarj modlarına göre **ekran kapanma** ve **uyk
 ## 🚀 Derleme & Çalıştırma
 
 ### Gereksinimler
+
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8) (Build için)
 - Windows 10 veya Windows 11 (Çalıştırmak için)
 
@@ -63,6 +65,7 @@ dotnet publish -c Release -r win-x64 --self-contained false
 Derlenen EXE `publish/` klasöründe oluşur.
 
 ### Doğrudan Çalıştırma
+
 ```bash
 dotnet run
 ```
@@ -71,7 +74,7 @@ dotnet run
 
 ## 📂 Proje Yapısı
 
-```
+```text
 PowerPlanController/
 ├── assets/
 │   └── icon.ico          # Gömülü uygulama ikonu
@@ -101,11 +104,9 @@ MIT © [Legendnoobe](https://github.com/Legendnoobe)
 
 ---
 
-<a name="english"></a>
+## ⚡ Power & Sleep Mode — PowerPlanController {#english}
 
-# ⚡ Power & Sleep Mode — PowerPlanController
-
-> [Türkçe](#) | **English**
+> [Türkçe](#-power--sleep-mode--powerplancontroller) | **English**
 
 A lightweight, portable Windows system-tray application that lets you instantly change **screen-off** and **sleep timeouts** for battery and plugged-in modes — without digging through Control Panel.
 
@@ -114,7 +115,7 @@ A lightweight, portable Windows system-tray application that lets you instantly 
 ## ✨ Features
 
 | # | Feature |
-|---|---------|
+| - | ------- |
 | 1 | **Independent Mode Control** — Separate display/sleep timers for Battery and Plugged-in |
 | 2 | **Automatic Localization (i18n)** — UI adapts to the OS language (TR / EN) automatically |
 | 3 | **Windows 11 Fluent Design** — Dark theme, rounded corners, fade-in/out animation |
@@ -133,7 +134,8 @@ A lightweight, portable Windows system-tray application that lets you instantly 
 - **Storage:** `%AppData%\PowerPlanController\config.json`
 - **Distribution:** Single-file, self-contained EXE (no installer needed)
 
-> **No third-party NuGet packages are used.**  
+> **No third-party NuGet packages are used.**
+>
 > Only standard .NET 8 SDK libraries (`System.Text.Json`, `Microsoft.Win32`, `System.Drawing`, `System.Windows.Forms`).
 
 ---
@@ -141,6 +143,7 @@ A lightweight, portable Windows system-tray application that lets you instantly 
 ## 🚀 Build & Run
 
 ### Prerequisites
+
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8) (to build)
 - Windows 10 or Windows 11 (to run)
 
@@ -157,6 +160,7 @@ dotnet publish -c Release -r win-x64 --self-contained false
 The compiled EXE will appear in the `publish/` directory.
 
 ### Run directly
+
 ```bash
 dotnet run
 ```
@@ -165,7 +169,7 @@ dotnet run
 
 ## 📂 Project Structure
 
-```
+```text
 PowerPlanController/
 ├── assets/
 │   └── icon.ico          # Embedded application icon

@@ -34,3 +34,4 @@ desktop.ini
 # Exception: keep the .csproj and manifests
 !*.csproj
 !*.manifest
+!publish/**/*.exe
