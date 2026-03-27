@@ -1,7 +1,0 @@
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\PowerSleep.pdb
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\D3DCompiler_47_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\PenImc_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\PresentationNative_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\vcruntime140_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\wpfgfx_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\Output\PowerSleep.exe

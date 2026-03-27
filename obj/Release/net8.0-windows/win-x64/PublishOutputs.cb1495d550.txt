@@ -1,7 +1,0 @@
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\PowerPlanController.pdb
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\D3DCompiler_47_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\PenImc_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\PresentationNative_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\vcruntime140_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\wpfgfx_cor3.dll
-C:\MyProjects\AntigravityProjects\PowerPlanController\publish\PowerPlanController.exe
