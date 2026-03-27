@@ -1,8 +1,6 @@
-## ── Build output ──────────────────────────────────────────────
 [Bb]in/
 [Oo]bj/
 Output/
-publish/
 
 ## ── User-specific IDE files ───────────────────────────────────
 *.user
