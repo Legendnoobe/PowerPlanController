@@ -1,0 +1,38 @@
+## ── Build output ──────────────────────────────────────────────
+[Bb]in/
+[Oo]bj/
+Output/
+publish/
+
+## ── User-specific IDE files ───────────────────────────────────
+*.user
+*.suo
+.vs/
+.vscode/
+
+## ── .NET / NuGet ──────────────────────────────────────────────
+*.nupkg
+*.snupkg
+project.lock.json
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+
+## ── OS files ─────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+desktop.ini
+
+## ── Crash / Profiling ─────────────────────────────────────────
+*.pdb
+*.log
+*.ilk
+*.map
+*.exp
+*.lib
+*.dll
+*.exe
+# Exception: keep the .csproj and manifests
+!*.csproj
+!*.manifest
